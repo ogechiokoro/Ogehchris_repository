@@ -1,0 +1,26 @@
+nav{
+	width:77%;
+	height:40%;
+	border-radius:5px;
+	background:#D617CF;
+	border:1px
+}
+
+nav ul{
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin: 0 auto; 
+	width: 940px;
+}
+nav ul li{
+	float: left;
+}
+
+nav ul li a{
+	margin-right: 25px;
+	display: block;
+	line-height: 20px;
+}
+
+ 
